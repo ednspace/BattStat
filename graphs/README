@@ -1,0 +1,4 @@
+A folder to keep some battery files for code development and testing.
+For the most part the data from the logged battery is saved in comma delimited text.
+
+These files can be read into BattStat.py and displayed graphically to help analyze compare battery health.
